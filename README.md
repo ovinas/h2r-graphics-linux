@@ -19,6 +19,10 @@ Make it executable<br>
 2.14.2 ok<br>
 2.14.3 not starting</p>
 
-<p><b>Linux Mint Debian Edition 5 (Elsie)</b></p>
+<p><b>Linux Mint Debian Edition 5 (Elsie) Cinnamon</b><br>
+Make it executable<br>
+2.13.1 ok<br>
+2.14.2 ok<br>
+2.14.3 not starting</p>
 
 <p><b>Debian 11.6 (Bullseye) Gnome</b></p>

@@ -2,7 +2,7 @@
 
 <p><b>Ubuntu 22.10 (Kinetic Kudu)</b><br>
 Install FUSE-2 support: sudo apt install libfuse2<br>
-Make it executable: Right click the AppImage file --> Properties --> Activate "Executable as Program<br>
+Make it executable: Right click the AppImage file --> Properties --> Activate "Executable as Program"<br>
 2.13.1 ok<br>
 2.14.2 ok<br>
 2.14.3 not starting</p>

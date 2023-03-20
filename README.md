@@ -7,7 +7,11 @@ Make it executable: Right click the AppImage file --> Properties --> Activate "E
 2.14.2 ok<br>
 2.14.3 not starting</p>
 
-<p><b>Ubuntu Studio 22.10 (Kinetic Kudu) KDE-Plasma</b></p>
+<p><b>Ubuntu Studio 22.10 (Kinetic Kudu) KDE-Plasma</b></p><br>
+Make it executable<br>
+2.13.1 ok<br>
+2.14.2 ok<br>
+2.14.3 not starting</p>
 
 <p><b>Linux Mint 21.1 (Vera) Cinnamon</b><br>
 Make it executable<br>

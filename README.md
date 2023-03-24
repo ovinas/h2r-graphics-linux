@@ -36,4 +36,6 @@ Make it executable<br>
 2.15.0 not starting<br>
 2.15.0.1 ok</p>
 
-<p><b>Debian 12 (Bookworm) Gnome</b></p>
+<p><b>Debian 12 (Bookworm) Gnome</b><br>
+Make it executable<br>
+2.15.0.1 ok</p>

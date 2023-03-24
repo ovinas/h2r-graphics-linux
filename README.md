@@ -5,7 +5,8 @@ Install FUSE-2 support: sudo apt install libfuse2<br>
 Make it executable: Right click the AppImage file --> Properties --> Activate "Executable as Program"<br>
 2.13.1 ok<br>
 2.14.2 ok<br>
-2.14.3 not starting</p>
+2.14.3 not starting<br>
+2.15.0.1 ok</p>
 
 <p><b>Ubuntu Studio 22.10 (Kinetic Kudu) KDE-Plasma</b><br>
 Make it executable<br>

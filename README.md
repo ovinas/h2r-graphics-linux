@@ -6,4 +6,4 @@ Make it executable: Right click the AppImage file --> Properties --> Activate "E
 
 <p><b>Linux Mint 21.1 (Vera) Cinnamon and other Debian based Distributions</b><br>
 Make it executable<br>
-Tested version: 2.15.4</p>
+Tested version: 2.16.0</p>
